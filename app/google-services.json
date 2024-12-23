@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333921373794",
+    "project_id": "mengo2024-gld",
+    "storage_bucket": "mengo2024-gld.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333921373794:android:0b8b6a9331304e62a40b3b",
+        "android_client_info": {
+          "package_name": "com.example.adminmengo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvVaB2ThdygfWFcrSmopgbHeDX4A3tXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
